@@ -1,0 +1,9 @@
+    # ignore all bin directories
+    # matches "largeimages" in any subfolder
+    largeimages/
+
+    # ignore all target directories
+    naturalearth/
+
+    # ignore all files ending with ~
+    *~
