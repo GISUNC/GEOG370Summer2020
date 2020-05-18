@@ -1,4 +1,4 @@
-    # ignore all bin directories
+    # ignore all largeimages directories
     # matches "largeimages" in any subfolder
     largeimages/
 
