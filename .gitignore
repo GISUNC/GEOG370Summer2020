@@ -3,7 +3,7 @@
     largeimages/
 
     # ignore all target directories
-    naturalearth/
+    data/naturalearth/
 
     # ignore all files ending with ~
     *~
