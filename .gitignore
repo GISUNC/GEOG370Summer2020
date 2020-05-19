@@ -1,9 +1,5 @@
-    # ignore all largeimages directories
-    # matches "largeimages" in any subfolder
-    largeimages/
-
-    # ignore all target directories
-    data/naturalearth/
+   # ignore all target directories
+    projections/data/naturalearth/
 
     # ignore all files ending with ~
     *~
